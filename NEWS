@@ -1,0 +1,71 @@
+19
+
+* Workaround Sugar's PYTHONPATH setting behaviour #3224
+
+18
+
+* Return langs back by generating locale/ directory
+
+17
+
+* Update translations
+
+15
+
+* Scale game workspace to current screen resolution
+
+14
+
+* Shrink screen resolution to 1024x700 instead of 1200x750
+* Store stories in journal instead of files
+* Run activity with pygame-1.8.x
+
+13
+
+* Fix MANIFEST (morgs)
+* Add COPYING (morgs)
+* #6765: Fix to run under Rainbow (dridgway)
+
+12
+
+* Update to OLPCGames 1.4+git head (morgs)
+
+11
+
+* Add pot file (morgs)
+
+10
+
+* Upstream change to olpcgames (morgs)
+* Upstream release 1.1 of olpcgames (morgs)
+
+9
+
+* new icon (morgs)
+* Upstream change to olpcgames (morgs)
+
+8
+
+* Added lesson plan content (morgs)
+
+7
+
+* Got olpcgames working, now runs from Sugar
+6
+
+* Added sounds for Ocean and Backstage themes
+
+5
+
+* Added sounds for Jungle theme
+* Updated olpcgames version
+
+4
+
+* Add Lesson Plans
+* Add better text editing for story text
+
+3
+
+* Added Load Story dialog
+* Save to journal based on story title

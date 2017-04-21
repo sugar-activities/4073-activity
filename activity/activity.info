@@ -1,0 +1,9 @@
+[Activity]
+name = Story Builder
+activity_version = 19
+service_name = org.worldwideworkshop.olpc.storybuilder
+bundle_id = org.worldwideworkshop.olpc.storybuilder
+icon = activity-storybuilder
+exec = activity/activity activity.StoryBuilderActivity
+show_launcher = yes
+license = GPLv2+

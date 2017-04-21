@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-12-11 09:10+0200\n"
+"PO-Revision-Date: 2008-08-27 07:11-0400\n"
+"Last-Translator: Rupali Sarode <rups23in@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2
+msgid "Story Builder"
+msgstr "गोष्टी बनवणारा"
+
+#: StoryBuilder.py:329
+msgid "SAVE"
+msgstr "सांभाळून ठेवा"
+
+#: StoryBuilder.py:334
+msgid "OPEN"
+msgstr "उघडा"
+
+#: StoryBuilder.py:340
+msgid "Lesson Plans"
+msgstr "धडाची योजना"
+
+#: loaddialog.py:25
+msgid "Click on a Story"
+msgstr "गोष्टी वर दाबा"
+
+#: loaddialog.py:29
+msgid "LOAD"
+msgstr "लोड"

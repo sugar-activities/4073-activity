@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-12-11 09:10+0200\n"
+"PO-Revision-Date: 2008-09-14 21:34-0400\n"
+"Last-Translator: Kirill Krinkin <homebox@pisem.net>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#: activity/activity.info:2
+msgid "Story Builder"
+msgstr "Построитель историй"
+
+#: StoryBuilder.py:329
+msgid "SAVE"
+msgstr "СОХРАНИТЬ"
+
+#: StoryBuilder.py:334
+msgid "OPEN"
+msgstr "ОТКРЫТЬ"
+
+#: StoryBuilder.py:340
+msgid "Lesson Plans"
+msgstr "Планы занятий"
+
+#: loaddialog.py:25
+#, fuzzy
+msgid "Click on a Story"
+msgstr "Кликнуть историю"
+
+#: loaddialog.py:29
+msgid "LOAD"
+msgstr "ЗАГРУЗИТЬ"

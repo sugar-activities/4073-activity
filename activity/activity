@@ -1,0 +1,8 @@
+#!/bin/sh
+
+# Sugar is adding SUGAR_BUNDLE_PATH to the end of PYTHONPATH.
+# Thus, on any filename colisions with system-wide files,
+# activity code will be overriden. To prevent this behaviour,
+# will change PYTHONPATH ourselves.
+export PYTHONPATH=$SUGAR_BUNDLE_PATH:$PYTHONPATH
+exec sugar-activity "$@"
